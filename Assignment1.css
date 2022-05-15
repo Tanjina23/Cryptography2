@@ -1,0 +1,58 @@
+body{
+      background-image: url('WalkWay.jpg') ;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      width: 100%;
+      margin: auto;
+} 
+
+.container{
+       color: white;
+       margin-top: 50px;
+       padding: 10px;
+}
+
+
+
+.banner{
+        background-image: url('Leaf.jpg');
+        text-align: center;
+        padding: 5px;
+}
+#btn{
+         border-radius: 6px;
+         padding: 5px;
+         font-size: x-large;        
+}
+
+#btn:hover{
+       background-color: rgb(7, 52, 7);
+       color: white;
+}
+
+table,caption{
+      padding: 8px;
+      font-size: 20px;
+
+}
+table,th,tr,td {
+        border: 2px solid whitesmoke;
+        border-collapse: collapse;
+        padding: 10px;
+        text-align: center;
+}
+.list{
+         padding: 5px;
+         font-size: 20px;
+}
+.list ul li{
+      list-style-type: circle;
+}
+.footer{
+       background-color: rgb(3, 37, 14);
+       padding: 1px;
+       text-align: center;
+       font-size: 20px;
+       color: white;
+}
